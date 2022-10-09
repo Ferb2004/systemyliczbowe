@@ -1,0 +1,5 @@
+kalkulator potęg i dzielenie z resztą: https://www.liczebnik.pl/potegi.php
+
+jak przeliczać systemy liczbowe: https://mattomatti.com/pl/a40.php
+
+operacje arytmetyczne systemu dwójkowego: https://eduinf.waw.pl/inf/alg/006_bin/0012.php
